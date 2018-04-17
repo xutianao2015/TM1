@@ -1,0 +1,36 @@
+IdCat	category	subcategory	parcat	parsubcat	description
+1	Hardware	Desktop	1	7	"Static personal computing device, including desktop PCs, small desktop peripherals, monitors."
+4	Hardware	Laptop	1	16	"Portable computing device, including laptops, notebooks, portable computers, tablets and PDAs."
+5	Hardware	LCS	1	18	"Major computing devices, such as mainframes, servers and processors."
+6	Hardware	Network	1	22	"Communication and system support devices such as routers, switches, cables, modems (including satellite modems), multiplexers, and network security hardware."
+7	Hardware	Unspecified	1	23	Entries clearly identified as IT Hardware but which have not been assigned to another Hardware sub-category.
+8	Hardware	Printer and Printer Services	1	28	"Device for output to paper includes printers and accessories, multifunction devices, plotters, photocopiers (leased or purchased), facsimiles and consumables except paper. Maintenance, repairs and installation services for printers."
+9	Hardware	Storage	1	33	"Devices and media for storing output electronically, including disk and hard drives, jukeboxes, tape libraries, SAN, RAID, disks and magnetic tape."
+11	IT Services	Business Consulting	3	1	"Strategic or management-focussed IT services.  Includes scoping and requirements studies, business case, project reviews, IT audits, disaster and continuity planning, strategic planning, development of procedures and technical writing, IT security consulting and review, and Threat & Risk Assessment."
+12	Hardware	Hardware Support	1	13	"Maintenance and repairs to computing hardware of all kinds, including minor installation tasks, configuration and warranties. Excludes services for Printers."
+13	Labour Hire	ICT Labour Hire	7	15	"IT contractors employed on a time and materials basis, ""body-shopping"". Intermedium only includes contracts for contractors and temporary staff specifically described as IT-related in AusTender, or if the contract applies to a known IT-only supplier or purchasing branch."
+14	IT Services	IT Managed Services	3	19	"Outsourcing, managed services and facilities management (except telecommunications).  Also includes offsite data and media storage, web and server hosting, gateway services, internet gateway and provision of IT services by one agency to another. "
+15	IT Services	Unspecified	3	23	Entries clearly identified as IT Services but which have not been assigned to another IT Services sub-category. 
+17	IT Services	SI Services	3	31	"Wide range of system integration services, including application development, enhancement, implementation and testing; installation of new hardware / software; system architectures; hardware and software consulting; and interface and website design and development."
+18	Software	Software Support	2	32	"Maintenance and support to system software, including system administration, warranties, minor configuration and repairs."
+19	IT Services	Training	3	35	"IT training, conferences, user groups and advisory services.  Intermedium only includes contracts which are specifically described as IT-related, or if from a known IT-only supplier."
+20	Software	Business Intelligence	2	2	"Business intelligence, data warehouse, business statistical analysis."
+21	Software	Business Systems	2	3	"Software package configured to business requirements but otherwise not extensively customised.  Excludes bespoke applications.  May include grants management, legal systems, tender management, training, OH&S, Interactive Voice Recognition (call centres) and Customer Relationship Management software."
+22	Software	Content and Knowledge Management	2	5	"Storage and management of electronic documents of any type, includes document/records management, web publishing. Knowledge management, intelligent agents, search software, library software."
+25	Software	ERP	2	10	"Enterprise Resource Planning for the management of resources including financial and non-financial assets, materials and human resources, includes Financial Management Information Systems and Human Resource Management Systems software."
+27	Software	Microsoft	2	20	Includes all Microsoft software.
+28	Software	Unspecified	2	23	Entries clearly identified as Software but which have not been assigned to another Software sub-category. 
+29	Software	Operating	2	24	"Software for operating and managing application and network functions, such as system and network administration and diagnostic tools, operating platform software, remote access control, database management systems."
+30	Software	Security	2	30	"Software to prevent unauthorised access to systems.  Includes identity authentication, anti-spam, virus protection, access control, may include identity authentication based on voice, such as IVR."
+31	Software	Technical	2	34	"Scientific or military software for a range of purposes, typically supplied to Defence or scientific agencies, such as specialist statistical analysis, computer forensic analysis, high tech simulations and modelling, computer-based war games. Includes Computer Assisted Design, typically engineering or architectural plans.  "
+32	Telecommunications	Cabling	4	4	"Voice, data and fibre optic cabling and repairs, installation of phone and data outlets.  Does not include computer room fit-out or electrical work."
+33	Telecommunications	Data Services	4	6	"Services related to the transmission of data, including internet access, data line, and network links.  Excludes access to information services over the internet (i.e. online databases and research content)."
+34	Telecommunications	Unspecified - Equipment	4	9	Entries clearly identified as Telecommunications equipment but which have not been assigned to another Telecommunications sub-category. 
+36	Telecommunications	Telco Managed Services	4	19	"Full data/voice network management, including facilities management.  Excludes switchboard operations and provision of Telecommunications services by one agency to another."
+37	Telecommunications	Mobile	4	21	"Mobile phones, hands free car kits, pagers, satellite phones, mobile call costs, services and repairs."
+40	Telecommunications	Unspecified - Services	4	26	Entries clearly identified as Telecommunications services but which have not been assigned to another Telecommunications sub-category. 
+42	Telecommunications	Satellite	4	29	"Satellite stations, satellite equipment except satellite phones and telecommunications services delivered via satellite."
+43	Telecommunications	Videoconferencing	4	36	"Video conferencing stations and equipment. Videoconferencing services, including call costs and use of facilities."
+44	Telecommunications	Voice Services	4	37	Carriage costs and telephone services may include equipment rental bundled with service costs.
+50	Multi-Category	Various	6	39	Intermedium assigns budget items to Multi Category Various when the scope of the planned procurement or budget measure clearly spans two or more of Intermedium’s ICT categories e.g. Procurement of Asset Management software/hardware.
+52	Non-ICT	Non-ICT			

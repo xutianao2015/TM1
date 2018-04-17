@@ -1,0 +1,12 @@
+use clustering to get a list of words that are more inclusive than english word corpus;
+How to incorporate different fields into the steps. Do we just dump into it or add as a new step?
+
+
+what features do we apply cross validation on?
+
+the number of trees in the forest (n_estimators) - more the better.
+the number of features to consider at each split. By default: square root of total number of features (max_features).
+the maximum depth of a tree i.e. number of nodes (max_depth).
+the minimum number of samples required to be at a leaf node / bottom of a tree (min_samples_leaf).
+
+Also whats the stopping point in optimising the prediction model?
